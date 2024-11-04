@@ -1,0 +1,6 @@
+
+train: /content/drive/MyDrive/vehicle_data/images/train
+val: /content/drive/MyDrive/vehicle_data/images/val 
+
+nc: 7
+names: ["Car", "Number Plate", "Blur Number Plate", "Two Wheeler", "Auto", "Bus", "Truck"]
